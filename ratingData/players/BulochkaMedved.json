@@ -1,0 +1,14 @@
+{
+	"name": "BulochkaMedved",
+	"matches": 4,
+	"wins": 3,
+	"loses": 1,
+	"heroesPlayed": [
+		8,
+		18,
+		0,
+		32
+	],
+	"rating": 2071,
+	"relativeImpact": 0.21000000000000002
+}

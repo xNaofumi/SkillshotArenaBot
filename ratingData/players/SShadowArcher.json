@@ -1,0 +1,14 @@
+{
+	"name": "SShadowArcher",
+	"matches": 4,
+	"wins": 3,
+	"loses": 1,
+	"heroesPlayed": [
+		3,
+		7,
+		35,
+		10
+	],
+	"rating": 2074,
+	"relativeImpact": 0.24
+}

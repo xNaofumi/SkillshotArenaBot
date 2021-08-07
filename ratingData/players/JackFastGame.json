@@ -1,0 +1,14 @@
+{
+	"name": "JackFastGame",
+	"matches": 4,
+	"wins": 2,
+	"loses": 2,
+	"heroesPlayed": [
+		14,
+		38,
+		2,
+		6
+	],
+	"rating": 2012,
+	"relativeImpact": 0.12000000000000002
+}

@@ -1,0 +1,14 @@
+{
+	"name": "Markoff",
+	"matches": 4,
+	"wins": 1,
+	"loses": 3,
+	"heroesPlayed": [
+		1,
+		28,
+		38,
+		34
+	],
+	"rating": 2015,
+	"relativeImpact": 0.65
+}

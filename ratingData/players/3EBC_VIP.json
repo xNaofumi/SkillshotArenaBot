@@ -1,0 +1,14 @@
+{
+	"name": "3EBC_VIP",
+	"matches": 4,
+	"wins": 0,
+	"loses": 4,
+	"heroesPlayed": [
+		30,
+		3,
+		25,
+		22
+	],
+	"rating": 1841,
+	"relativeImpact": -0.59
+}
